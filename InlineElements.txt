@@ -1,0 +1,13 @@
+
+INLINE ELEMENT:
+	1. Anchor Tag
+	2. Bold Tag
+	3. Break Tag
+	4. Italic Tag
+	5. Image Tag
+	6. Subscript Tag
+	7. Superscript Tag
+	8. Textarea Tag
+	9. Span Tag
+And Many More....
+		
