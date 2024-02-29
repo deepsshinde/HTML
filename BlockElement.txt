@@ -1,0 +1,38 @@
+Following is a list of block element in html:
+	<Address></Address>
+	<article></article>
+	<aside></aside>
+	<canvas></canvas>
+	<dl></dl>
+	<dt></dt>
+ 	<footer></footer>
+  	<form></form>
+   	<header></header>
+And Many More....	
+
+Span Tag:
+	It is alos a container like div.
+	It is an INline element unlike div it doesnt take full width on the screen rather it tkaes width only when it is used or needed.
+	it takes width as per requirement.
+	It is an Inline element.
+	Syntax:
+		<span>
+			<p>Hello</p>
+		</span>
+
+
+
+
+
+INLINE ELEMENT:
+	1. Anchor Tag
+	2. Bold Tag
+	3. Break Tag
+	4. Italic Tag
+	5. Image Tag
+	6. Subscript Tag
+	7. Superscript Tag
+	8. Textarea Tag
+	9. Span Tag
+And Many More....
+		
