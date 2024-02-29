@@ -1,0 +1,13 @@
+Span Tag:
+	It is alos a container like div.
+	It is an INline element unlike div it doesnt take full width on the screen rather it tkaes width only when it is used or needed.
+	it takes width as per requirement.
+	It is an Inline element.
+	Syntax:
+		<span>
+			<p>Hello</p>
+		</span>
+
+
+
+
